@@ -1,16 +1,51 @@
-# unfusedelectric
+# Unfused Electric Android App ![Android](https://img.shields.io/badge/platform-Android-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A new Flutter project.
+Welcome to the official repository for the Unfused Electric Android App, now available under the MIT license. Dive into the digital realm of Unfused Electric, your trusted partner for all electrical needs.
 
-## Getting Started
+## Table of Contents
+- [About](#about)
+- [Developer](#developer)
+- [Features](#features)
+- [Usage](#usage)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Support](#support)
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This Android application brings Unfused Electric's exceptional service offerings to your fingertips. Designed with user experience in mind, it offers a seamless way to access residential, commercial, and emergency electrical services.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<details>
+<summary><strong>Learn More</strong></summary>
+Offering detailed service overviews, a straightforward booking system, and invaluable emergency contact resources, this app ensures you're never left in the dark.
+</details>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+
+Developed by Jesse Conner, this app is a testament to dedication and passion for enhancing user experiences through technology.
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) [Jesse's GitHub](https://github.com/Mr-Weatherman)
+- ![Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=google-chrome) [Jesse's Website](https://jesseeconner.com/)
+
+## Features
+
+- **Service Overview**: Extensive insights into electrical services.
+- **Booking System**: Effortless scheduling at your fingertips.
+- **Emergency Contact**: Immediate access to emergency services.
+- **Informational Resources**: Essential tips for electrical safety and maintenance.
+
+## Usage
+
+Download the app for free and streamline your access to Unfused Electric's services. Designed for convenience, it's your go-to for scheduling and information.
+
+## License
+
+This project is proudly licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+## Acknowledgments
+
+Your use of this code must acknowledge Jesse Conner. Reference [Jesse's GitHub](https://github.com/Mr-Weatherman) for any use of this project.
+
+## Support
+
+Need support? Contact Unfused Electric through the app or [visit our website](https://www.unfusedelectric.com).
